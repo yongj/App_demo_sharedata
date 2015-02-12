@@ -3,7 +3,7 @@ library(shiny)
 shinyUI(fluidPage(
 
   # Application title
-  titlePanel("Demonstration of file persistence in Shiny"),
+  titlePanel("Post Your Comments On Cloud!"),
 
   # Define the side-panel
   sidebarLayout(
